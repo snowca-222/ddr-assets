@@ -916,6 +916,29 @@
   },
   {
     "id": "",
+    "name": "少女、摩天楼へ",
+    "artist": "BEMANI Sound Team \"U1 overground\"",
+    "folder": "DDR WORLD",
+    "img": "world_shoujo",
+    "type": "gold",
+    "levels": { "single": [3, 6, 11, 15, null], "double": [6, 11, 15, null] },
+    "notes": {
+      "single": [[103, 8, 0], [214, 23, 0], [337, 32, 0], [554, 53, 0], null],
+      "double": [[206, 19, 0], [339, 29, 0], [542, 53, 0], null]
+    },
+    "flags": {
+      "copyright": false,
+      "unlock": false,
+      "savior": false,
+      "addition": false,
+      "galaxyBrave": false,
+      "remove": false,
+      "onichart": false
+    },
+    "event": "platinum members"
+  },
+  {
+    "id": "",
     "name": "水槽のクジラ",
     "artist": "テヅカ feat. 大西あみみ",
     "folder": "DDR WORLD",
@@ -925,6 +948,29 @@
     "notes": {
       "single": [[54, 4, 0], [178, 17, 0], [321, 20, 0], [476, 10, 0], null],
       "double": [[170, 17, 0], [322, 18, 0], [455, 12, 0], null]
+    },
+    "flags": {
+      "copyright": false,
+      "unlock": false,
+      "savior": true,
+      "addition": false,
+      "galaxyBrave": false,
+      "remove": false,
+      "onichart": false
+    },
+    "event": ""
+  },
+  {
+    "id": "",
+    "name": "幸せのマ法は解けなイ.*・.+ ☆",
+    "artist": "Mono.",
+    "folder": "DDR WORLD",
+    "img": "world_siawasenomahou",
+    "type": "gold",
+    "levels": { "single": [4, 6, 12, 14, null], "double": [6, 12, 14, null] },
+    "notes": {
+      "single": [[75, 26, 0], [134, 72, 0], [324, 69, 0], [426, 70, 0], null],
+      "double": [[134, 72, 0], [313, 61, 0], [417, 60, 0], null]
     },
     "flags": {
       "copyright": false,
@@ -1076,6 +1122,29 @@
   },
   {
     "id": "",
+    "name": "断罪のミメシス",
+    "artist": "KE!JU",
+    "folder": "DDR WORLD",
+    "img": "world_danzan",
+    "type": "gold",
+    "levels": { "single": [3, 8, 13, 17, null], "double": [8, 13, 17, null] },
+    "notes": {
+      "single": [[0, 0, 0], [0, 0, 0], [0, 0, 0], [787, 30, 0], null],
+      "double": [[0, 0, 0], [0, 0, 0], [0, 0, 0], null]
+    },
+    "flags": {
+      "copyright": false,
+      "unlock": false,
+      "savior": false,
+      "addition": false,
+      "galaxyBrave": false,
+      "remove": false,
+      "onichart": false
+    },
+    "event": "2026 summer festival"
+  },
+  {
+    "id": "",
     "name": "弾幕信仰",
     "artist": "豚乙女×BEMANI Sound Team \"PON\"",
     "folder": "DDR WORLD",
@@ -1199,6 +1268,29 @@
     "notes": {
       "single": [[86, 9, 0], [189, 15, 0], [266, 21, 0], [375, 41, 0], null],
       "double": [[184, 15, 0], [260, 21, 0], [371, 41, 0], null]
+    },
+    "flags": {
+      "copyright": false,
+      "unlock": false,
+      "savior": true,
+      "addition": false,
+      "galaxyBrave": false,
+      "remove": false,
+      "onichart": false
+    },
+    "event": ""
+  },
+  {
+    "id": "",
+    "name": "電幻圏",
+    "artist": "Lamanya feat.ナースロボ＿タイプT",
+    "folder": "DDR WORLD",
+    "img": "world_dengenken",
+    "type": "gold",
+    "levels": { "single": [2, 5, 10, 15, null], "double": [5, 10, 15, null] },
+    "notes": {
+      "single": [[57, 5, 0], [158, 9, 0], [312, 14, 0], [520, 11, 0], null],
+      "double": [[156, 11, 0], [306, 14, 0], [505, 12, 0], null]
     },
     "flags": {
       "copyright": false,
@@ -1453,6 +1545,40 @@
   },
   {
     "id": "",
+    "name": "魄",
+    "artist": "あさき",
+    "folder": "DDR WORLD",
+    "img": "world_haku",
+    "type": "gold",
+    "levels": { "single": [3, 7, 12, 14, 18], "double": [7, 12, 14, 18] },
+    "notes": {
+      "single": [
+        [90, 3, 0],
+        [200, 12, 0],
+        [373, 32, 0],
+        [561, 17, 0],
+        [825, 7, 0]
+      ],
+      "double": [
+        [197, 6, 0],
+        [369, 33, 0],
+        [554, 18, 0],
+        [798, 7, 0]
+      ]
+    },
+    "flags": {
+      "copyright": false,
+      "unlock": false,
+      "savior": false,
+      "addition": false,
+      "galaxyBrave": true,
+      "remove": false,
+      "onichart": false
+    },
+    "event": ""
+  },
+  {
+    "id": "",
     "name": "白日と幻月",
     "artist": "めと（Metomate）",
     "folder": "DDR WORLD",
@@ -1542,6 +1668,29 @@
     "notes": {
       "single": [[85, 4, 0], [196, 9, 0], [326, 76, 0], [512, 25, 0], null],
       "double": [[190, 11, 0], [302, 81, 0], [487, 31, 0], null]
+    },
+    "flags": {
+      "copyright": false,
+      "unlock": false,
+      "savior": true,
+      "addition": false,
+      "galaxyBrave": false,
+      "remove": false,
+      "onichart": false
+    },
+    "event": ""
+  },
+  {
+    "id": "",
+    "name": "はるかぜリスタート！",
+    "artist": "qfeileadh feat.Risa Kodaka",
+    "folder": "DDR WORLD",
+    "img": "world_harukazerisutato",
+    "type": "gold",
+    "levels": { "single": [3, 6, 12, 15, null], "double": [6, 12, 15, null] },
+    "notes": {
+      "single": [[63, 8, 0], [197, 8, 0], [422, 30, 0], [605, 23, 0], null],
+      "double": [[199, 9, 0], [386, 45, 0], [593, 24, 0], null]
     },
     "flags": {
       "copyright": false,
@@ -1748,6 +1897,29 @@
       "onichart": false
     },
     "event": ""
+  },
+  {
+    "id": "",
+    "name": "ポルカドット・ダンス・ガール",
+    "artist": "KE!JU",
+    "folder": "DDR WORLD",
+    "img": "world_porukadotto",
+    "type": "gold",
+    "levels": { "single": [2, 7, 11, 14, null], "double": [7, 11, 14, null] },
+    "notes": {
+      "single": [[51, 2, 0], [208, 29, 0], [370, 23, 0], [475, 55, 0], null],
+      "double": [[204, 30, 0], [372, 23, 0], [470, 57, 0], null]
+    },
+    "flags": {
+      "copyright": false,
+      "unlock": false,
+      "savior": false,
+      "addition": false,
+      "galaxyBrave": false,
+      "remove": false,
+      "onichart": false
+    },
+    "event": "world league"
   },
   {
     "id": "",
@@ -2094,6 +2266,29 @@
   },
   {
     "id": "",
+    "name": "霖が哭く",
+    "artist": "Power Of Nature",
+    "folder": "DDR WORLD",
+    "img": "world_ringanaku",
+    "type": "gold",
+    "levels": { "single": [4, 9, 13, 16, null], "double": [9, 13, 16, null] },
+    "notes": {
+      "single": [[0, 0, 0], [0, 0, 0], [0, 0, 0], [568, 20, 0], null],
+      "double": [[0, 0, 0], [383, 16, 0], [537, 22, 0], null]
+    },
+    "flags": {
+      "copyright": false,
+      "unlock": false,
+      "savior": false,
+      "addition": false,
+      "galaxyBrave": false,
+      "remove": false,
+      "onichart": false
+    },
+    "event": "2026 summer festival"
+  },
+  {
+    "id": "",
     "name": "レシピのリドル",
     "artist": "音戯探偵ひなビタ♫",
     "folder": "DDR WORLD",
@@ -2288,6 +2483,29 @@
   },
   {
     "id": "",
+    "name": "Amabie",
+    "artist": "BEMANI Sound Team \"Coyaan\"",
+    "folder": "DDR WORLD",
+    "img": "world_amabie",
+    "type": "gold",
+    "levels": { "single": [2, 6, 12, 15, null], "double": [7, 12, 15, null] },
+    "notes": {
+      "single": [[57, 4, 0], [209, 18, 0], [354, 40, 0], [514, 19, 0], null],
+      "double": [[205, 15, 0], [353, 40, 0], [0, 0, 0], null]
+    },
+    "flags": {
+      "copyright": false,
+      "unlock": false,
+      "savior": false,
+      "addition": false,
+      "galaxyBrave": false,
+      "remove": false,
+      "onichart": false
+    },
+    "event": "2026 summer festival"
+  },
+  {
+    "id": "",
     "name": "Amazing Bomberman",
     "artist": "TESSEI TOJO",
     "folder": "DDR WORLD",
@@ -2308,6 +2526,29 @@
       "onichart": false
     },
     "event": ""
+  },
+  {
+    "id": "",
+    "name": "Any%",
+    "artist": "めめめ",
+    "folder": "DDR WORLD",
+    "img": "world_any",
+    "type": "gold",
+    "levels": { "single": [2, 7, 12, 15, null], "double": [7, 12, 15, null] },
+    "notes": {
+      "single": [[0, 0, 0], [0, 0, 0], [0, 0, 0], [537, 23, 0], null],
+      "double": [[0, 0, 0], [0, 0, 0], [0, 0, 0], null]
+    },
+    "flags": {
+      "copyright": false,
+      "unlock": false,
+      "savior": false,
+      "addition": false,
+      "galaxyBrave": false,
+      "remove": false,
+      "onichart": false
+    },
+    "event": "2026 summer festival"
   },
   {
     "id": "",
@@ -2639,6 +2880,29 @@
       "onichart": false
     },
     "event": ""
+  },
+  {
+    "id": "",
+    "name": "Bloody Iron Maiden",
+    "artist": "BEMANI Sound Team \"Loz\"",
+    "folder": "DDR WORLD",
+    "img": "world_bim",
+    "type": "gold",
+    "levels": { "single": [3, 8, 12, 15, null], "double": [8, 12, 15, null] },
+    "notes": {
+      "single": [[0, 0, 0], [0, 0, 0], [0, 0, 0], [622, 5, 0], null],
+      "double": [[0, 0, 0], [0, 0, 0], [0, 0, 0], null]
+    },
+    "flags": {
+      "copyright": false,
+      "unlock": false,
+      "savior": false,
+      "addition": false,
+      "galaxyBrave": false,
+      "remove": false,
+      "onichart": false
+    },
+    "event": "2026 summer festival"
   },
   {
     "id": "",
@@ -4330,6 +4594,29 @@
   },
   {
     "id": "",
+    "name": "Miles on It",
+    "artist": "Marshmello & Kane Brown",
+    "folder": "DDR WORLD",
+    "img": "world_moi",
+    "type": "gold",
+    "levels": { "single": [2, 5, 8, 11, null], "double": [5, 8, 11, null] },
+    "notes": {
+      "single": [[79, 1, 0], [166, 3, 0], [214, 15, 0], [309, 3, 0], null],
+      "double": [[166, 3, 0], [206, 15, 0], [308, 3, 0], null]
+    },
+    "flags": {
+      "copyright": true,
+      "unlock": false,
+      "savior": false,
+      "addition": false,
+      "galaxyBrave": false,
+      "remove": false,
+      "onichart": false
+    },
+    "event": ""
+  },
+  {
+    "id": "",
     "name": "MODEL FT2 Miracle Version",
     "artist": "Mutsuhiko Izumi",
     "folder": "DDR WORLD",
@@ -4481,6 +4768,29 @@
       "copyright": false,
       "unlock": false,
       "savior": false,
+      "addition": false,
+      "galaxyBrave": false,
+      "remove": false,
+      "onichart": false
+    },
+    "event": ""
+  },
+  {
+    "id": "",
+    "name": "MYSTIC CUBE",
+    "artist": "こふ",
+    "folder": "DDR WORLD",
+    "img": "world_mc",
+    "type": "gold",
+    "levels": { "single": [3, 8, 12, 15, null], "double": [8, 12, 15, null] },
+    "notes": {
+      "single": [[89, 6, 0], [187, 28, 0], [346, 15, 0], [592, 67, 0], null],
+      "double": [[185, 28, 0], [340, 6, 0], [561, 65, 0], null]
+    },
+    "flags": {
+      "copyright": false,
+      "unlock": false,
+      "savior": true,
       "addition": false,
       "galaxyBrave": false,
       "remove": false,
@@ -5180,10 +5490,21 @@
     "folder": "DDR WORLD",
     "img": "world_sfnf",
     "type": "gold",
-    "levels": { "single": [2, 6, 11, 14, null], "double": [5, 11, 14, null] },
+    "levels": { "single": [2, 6, 11, 14, 13], "double": [5, 11, 14, 13] },
     "notes": {
-      "single": [[59, 4, 0], [193, 11, 0], [355, 20, 0], [543, 23, 0], null],
-      "double": [[189, 11, 0], [346, 16, 0], [546, 21, 0], null]
+      "single": [
+        [59, 4, 0],
+        [193, 11, 0],
+        [355, 20, 0],
+        [543, 23, 0],
+        [365, 16, 71]
+      ],
+      "double": [
+        [189, 11, 0],
+        [346, 16, 0],
+        [546, 21, 0],
+        [357, 25, 78]
+      ]
     },
     "flags": {
       "copyright": true,
@@ -5195,6 +5516,29 @@
       "onichart": false
     },
     "event": ""
+  },
+  {
+    "id": "",
+    "name": "Smintheus",
+    "artist": "TAN1CHU",
+    "folder": "DDR WORLD",
+    "img": "world_smintheus",
+    "type": "gold",
+    "levels": { "single": [5, 10, 13, 17, null], "double": [10, 13, 17, null] },
+    "notes": {
+      "single": [[0, 0, 0], [0, 0, 0], [487, 23, 0], [0, 0, 0], null],
+      "double": [[0, 0, 0], [0, 0, 0], [0, 0, 0], null]
+    },
+    "flags": {
+      "copyright": false,
+      "unlock": false,
+      "savior": false,
+      "addition": false,
+      "galaxyBrave": false,
+      "remove": false,
+      "onichart": false
+    },
+    "event": "2026 summer festival"
   },
   {
     "id": "",
@@ -5309,6 +5653,29 @@
       "onichart": false
     },
     "event": "platinum members"
+  },
+  {
+    "id": "",
+    "name": "Stars In The Sky",
+    "artist": "Kid Kudi",
+    "folder": "DDR WORLD",
+    "img": "world_sits",
+    "type": "gold",
+    "levels": { "single": [1, 5, 10, 13, null], "double": [5, 10, 13, null] },
+    "notes": {
+      "single": [[42, 6, 0], [154, 27, 0], [250, 35, 0], [354, 29, 0], null],
+      "double": [[148, 25, 0], [249, 35, 0], [349, 29, 0], null]
+    },
+    "flags": {
+      "copyright": true,
+      "unlock": false,
+      "savior": false,
+      "addition": false,
+      "galaxyBrave": false,
+      "remove": false,
+      "onichart": false
+    },
+    "event": ""
   },
   {
     "id": "",
@@ -31281,10 +31648,21 @@
     "folder": "DDR SuperNOVA2",
     "img": "sn2_volcano",
     "type": "classic",
-    "levels": { "single": [4, 5, 8, 13, null], "double": [5, 8, 13, null] },
+    "levels": { "single": [4, 5, 8, 13, 15], "double": [5, 8, 13, 16] },
     "notes": {
-      "single": [[82, 3, 0], [153, 11, 0], [249, 15, 0], [436, 18, 0], null],
-      "double": [[175, 2, 0], [260, 9, 0], [436, 15, 0], null]
+      "single": [
+        [82, 3, 0],
+        [153, 11, 0],
+        [249, 15, 0],
+        [436, 18, 0],
+        [493, 48, 0]
+      ],
+      "double": [
+        [175, 2, 0],
+        [260, 9, 0],
+        [436, 15, 0],
+        [476, 25, 0]
+      ]
     },
     "flags": {
       "copyright": false,
@@ -31293,7 +31671,7 @@
       "addition": false,
       "galaxyBrave": false,
       "remove": false,
-      "onichart": false
+      "onichart": true
     },
     "event": ""
   },
@@ -31350,10 +31728,21 @@
     "folder": "DDR SuperNOVA",
     "img": "sn_mbd",
     "type": "classic",
-    "levels": { "single": [4, 5, 8, 11, null], "double": [3, 7, 11, null] },
+    "levels": { "single": [4, 5, 8, 11, 15], "double": [3, 7, 11, 15] },
     "notes": {
-      "single": [[100, 0, 0], [141, 3, 0], [228, 1, 0], [347, 5, 0], null],
-      "double": [[115, 3, 0], [209, 1, 0], [338, 1, 0], null]
+      "single": [
+        [100, 0, 0],
+        [141, 3, 0],
+        [228, 1, 0],
+        [347, 5, 0],
+        [515, 11, 0]
+      ],
+      "double": [
+        [115, 3, 0],
+        [209, 1, 0],
+        [338, 1, 0],
+        [499, 6, 0]
+      ]
     },
     "flags": {
       "copyright": false,
@@ -31362,7 +31751,7 @@
       "addition": false,
       "galaxyBrave": false,
       "remove": false,
-      "onichart": false
+      "onichart": true
     },
     "event": ""
   },
@@ -32160,10 +32549,21 @@
     "folder": "DDR SuperNOVA",
     "img": "sn_fs",
     "type": "classic",
-    "levels": { "single": [3, 4, 7, 8, null], "double": [3, 6, 8, null] },
+    "levels": { "single": [3, 4, 7, 8, 12], "double": [3, 6, 8, 12] },
     "notes": {
-      "single": [[91, 0, 0], [93, 18, 0], [155, 24, 0], [181, 23, 0], null],
-      "double": [[95, 8, 0], [143, 17, 0], [182, 17, 0], null]
+      "single": [
+        [91, 0, 0],
+        [93, 18, 0],
+        [155, 24, 0],
+        [181, 23, 0],
+        [256, 19, 0]
+      ],
+      "double": [
+        [95, 8, 0],
+        [143, 17, 0],
+        [182, 17, 0],
+        [264, 16, 0]
+      ]
     },
     "flags": {
       "copyright": false,
@@ -32172,7 +32572,7 @@
       "addition": false,
       "galaxyBrave": false,
       "remove": false,
-      "onichart": false
+      "onichart": true
     },
     "event": ""
   },
@@ -32708,10 +33108,21 @@
     "folder": "DDR SuperNOVA",
     "img": "sn_mip",
     "type": "classic",
-    "levels": { "single": [3, 5, 9, 13, null], "double": [5, 8, 10, null] },
+    "levels": { "single": [3, 5, 9, 13, 16], "double": [5, 8, 10, 16] },
     "notes": {
-      "single": [[79, 0, 0], [125, 15, 0], [201, 21, 0], [330, 26, 0], null],
-      "double": [[125, 15, 0], [180, 21, 0], [274, 24, 0], null]
+      "single": [
+        [79, 0, 0],
+        [125, 15, 0],
+        [201, 21, 0],
+        [330, 26, 0],
+        [464, 7, 0]
+      ],
+      "double": [
+        [125, 15, 0],
+        [180, 21, 0],
+        [274, 24, 0],
+        [447, 17, 0]
+      ]
     },
     "flags": {
       "copyright": false,
@@ -32720,7 +33131,7 @@
       "addition": false,
       "galaxyBrave": false,
       "remove": false,
-      "onichart": false
+      "onichart": true
     },
     "event": ""
   },
@@ -32800,7 +33211,7 @@
       "addition": false,
       "galaxyBrave": false,
       "remove": false,
-      "onichart": true
+      "onichart": false
     },
     "event": ""
   },
@@ -33395,7 +33806,7 @@
       "addition": false,
       "galaxyBrave": false,
       "remove": false,
-      "onichart": true
+      "onichart": false
     },
     "event": ""
   },
@@ -34628,10 +35039,21 @@
     "folder": "DDR EXTREME",
     "img": "ex_tlom",
     "type": "classic",
-    "levels": { "single": [7, 8, 13, 15, null], "double": [8, 12, 16, null] },
+    "levels": { "single": [7, 8, 13, 15, 18], "double": [8, 12, 16, 18] },
     "notes": {
-      "single": [[174, 0, 0], [255, 3, 0], [357, 29, 0], [500, 3, 0], null],
-      "double": [[242, 3, 0], [366, 3, 0], [484, 3, 0], null]
+      "single": [
+        [174, 0, 0],
+        [255, 3, 0],
+        [357, 29, 0],
+        [500, 3, 0],
+        [693, 5, 0]
+      ],
+      "double": [
+        [242, 3, 0],
+        [366, 3, 0],
+        [484, 3, 0],
+        [647, 5, 0]
+      ]
     },
     "flags": {
       "copyright": false,
@@ -34640,7 +35062,7 @@
       "addition": false,
       "galaxyBrave": false,
       "remove": false,
-      "onichart": false
+      "onichart": true
     },
     "event": ""
   },
@@ -35555,10 +35977,21 @@
     "folder": "DDR MAX2",
     "img": "max2_tsugaru",
     "type": "classic",
-    "levels": { "single": [3, 5, 9, 12, null], "double": [6, 9, 13, null] },
+    "levels": { "single": [3, 5, 9, 12, 16], "double": [6, 9, 13, 16] },
     "notes": {
-      "single": [[92, 0, 0], [107, 18, 0], [232, 8, 0], [366, 8, 0], null],
-      "double": [[158, 4, 0], [236, 5, 0], [360, 3, 0], null]
+      "single": [
+        [92, 0, 0],
+        [107, 18, 0],
+        [232, 8, 0],
+        [366, 8, 0],
+        [477, 8, 0]
+      ],
+      "double": [
+        [158, 4, 0],
+        [236, 5, 0],
+        [360, 3, 0],
+        [473, 8, 0]
+      ]
     },
     "flags": {
       "copyright": false,
@@ -35567,7 +36000,7 @@
       "addition": false,
       "galaxyBrave": false,
       "remove": false,
-      "onichart": false
+      "onichart": true
     },
     "event": ""
   },
@@ -35801,10 +36234,21 @@
     "folder": "DDR 5thMix",
     "img": "5th_smri",
     "type": "classic",
-    "levels": { "single": [3, 4, 9, 12, null], "double": [5, 9, 12, null] },
+    "levels": { "single": [3, 4, 9, 12, 14], "double": [5, 9, 12, 16] },
     "notes": {
-      "single": [[73, 0, 0], [128, 0, 0], [190, 0, 0], [294, 0, 0], null],
-      "double": [[128, 0, 0], [225, 0, 0], [269, 0, 0], null]
+      "single": [
+        [73, 0, 0],
+        [128, 0, 0],
+        [190, 0, 0],
+        [294, 0, 0],
+        [418, 48, 0]
+      ],
+      "double": [
+        [128, 0, 0],
+        [225, 0, 0],
+        [269, 0, 0],
+        [410, 33, 0]
+      ]
     },
     "flags": {
       "copyright": false,
@@ -35813,7 +36257,7 @@
       "addition": false,
       "galaxyBrave": false,
       "remove": false,
-      "onichart": false
+      "onichart": true
     },
     "event": ""
   },
@@ -35847,10 +36291,21 @@
     "folder": "DDR 5thMix",
     "img": "5th_abyss",
     "type": "classic",
-    "levels": { "single": [3, 5, 7, 10, null], "double": [6, 8, 11, null] },
+    "levels": { "single": [3, 5, 7, 10, 15], "double": [6, 8, 11, 15] },
     "notes": {
-      "single": [[117, 0, 0], [168, 0, 0], [234, 0, 0], [309, 0, 0], null],
-      "double": [[171, 0, 0], [233, 0, 0], [309, 0, 0], null]
+      "single": [
+        [117, 0, 0],
+        [168, 0, 0],
+        [234, 0, 0],
+        [309, 0, 0],
+        [488, 1, 0]
+      ],
+      "double": [
+        [171, 0, 0],
+        [233, 0, 0],
+        [309, 0, 0],
+        [484, 1, 0]
+      ]
     },
     "flags": {
       "copyright": false,
@@ -35859,7 +36314,7 @@
       "addition": false,
       "galaxyBrave": false,
       "remove": false,
-      "onichart": false
+      "onichart": true
     },
     "event": ""
   },
@@ -36533,7 +36988,7 @@
       "addition": false,
       "galaxyBrave": false,
       "remove": false,
-      "onichart": true
+      "onichart": false
     },
     "event": ""
   },
@@ -36783,10 +37238,21 @@
     "folder": "DDR 3rdMix",
     "img": "3rd_cc",
     "type": "classic",
-    "levels": { "single": [3, 5, 7, 10, null], "double": [5, 7, 10, null] },
+    "levels": { "single": [3, 5, 7, 10, 13], "double": [5, 7, 10, 13] },
     "notes": {
-      "single": [[82, 0, 0], [148, 0, 0], [185, 0, 0], [256, 0, 0], null],
-      "double": [[148, 0, 0], [186, 0, 0], [254, 0, 0], null]
+      "single": [
+        [82, 0, 0],
+        [148, 0, 0],
+        [185, 0, 0],
+        [256, 0, 0],
+        [341, 26, 0]
+      ],
+      "double": [
+        [148, 0, 0],
+        [186, 0, 0],
+        [254, 0, 0],
+        [338, 26, 0]
+      ]
     },
     "flags": {
       "copyright": false,
@@ -36795,7 +37261,7 @@
       "addition": false,
       "galaxyBrave": false,
       "remove": false,
-      "onichart": false
+      "onichart": true
     },
     "event": ""
   },
@@ -36989,7 +37455,7 @@
       "addition": false,
       "galaxyBrave": false,
       "remove": false,
-      "onichart": true
+      "onichart": false
     },
     "event": ""
   },
@@ -37284,10 +37750,21 @@
     "folder": "DDR 2ndMix",
     "img": "2nd_keeponmovin",
     "type": "classic",
-    "levels": { "single": [4, 5, 7, 9, null], "double": [5, 9, 10, null] },
+    "levels": { "single": [4, 5, 7, 9, 12], "double": [5, 9, 10, 13] },
     "notes": {
-      "single": [[51, 0, 0], [110, 0, 0], [140, 0, 0], [183, 0, 0], null],
-      "double": [[113, 0, 0], [162, 0, 0], [164, 0, 0], null]
+      "single": [
+        [51, 0, 0],
+        [110, 0, 0],
+        [140, 0, 0],
+        [183, 0, 0],
+        [199, 21, 42]
+      ],
+      "double": [
+        [113, 0, 0],
+        [162, 0, 0],
+        [164, 0, 0],
+        [204, 11, 44]
+      ]
     },
     "flags": {
       "copyright": false,
@@ -37296,7 +37773,7 @@
       "addition": false,
       "galaxyBrave": false,
       "remove": false,
-      "onichart": false
+      "onichart": true
     },
     "event": ""
   },
@@ -37421,7 +37898,7 @@
       "addition": false,
       "galaxyBrave": false,
       "remove": false,
-      "onichart": true
+      "onichart": false
     },
     "event": ""
   },
