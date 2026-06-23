@@ -1923,29 +1923,6 @@
   },
   {
     "id": "",
-    "name": "ポルカドット・ダンス・ガール",
-    "artist": "KE!JU",
-    "folder": "DDR WORLD",
-    "img": "world_porukadotto",
-    "type": "gold",
-    "levels": { "single": [2, 7, 11, 14, null], "double": [7, 11, 14, null] },
-    "notes": {
-      "single": [[51, 2, 0], [208, 29, 0], [370, 23, 0], [475, 55, 0], null],
-      "double": [[204, 30, 0], [372, 23, 0], [470, 57, 0], null]
-    },
-    "flags": {
-      "copyright": false,
-      "unlock": false,
-      "savior": false,
-      "addition": false,
-      "galaxyBrave": false,
-      "remove": false,
-      "onichart": false
-    },
-    "event": "world league"
-  },
-  {
-    "id": "",
     "name": "まにぃまにあ××",
     "artist": "月乃 & BEMANI Sound Team \"劇団レコード\"",
     "folder": "DDR WORLD",
